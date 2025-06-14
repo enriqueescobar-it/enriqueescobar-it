@@ -39,6 +39,16 @@ Here are some ideas to get you started:
 
 ---
 
+## 🌱 What colleagues know about me
+
+Enrique is a tech-savvy, highly skilled individual with a passion for data engineering, software development, and solving complex problems. With a keen focus on optimizing systems, he has extensive experience working with cutting-edge technologies such as Azure, AWS, Terraform, and Python. Whether it's transforming Terraform code into PowerShell scripts, building automation pipelines in Azure DevOps, or using tools like Power BI for data visualization, Enrique thrives in the technical trenches. He has a strong understanding of both cloud and local environments and isn't afraid to tackle new challenges — from working with Azure Synapse to exporting data in Parquet format to experimenting with machine learning models.
+
+Beyond the tech world, Enrique is driven by a commitment to growth, personal development, and his career ambitions. Whether he's navigating a career transition, optimizing processes, or considering relocating from Montreal to Miami for new opportunities, he's always looking ahead.
+
+A curious learner with an analytical mind, Enrique's skillset, adaptability, and deep understanding of the data ecosystem set him apart. If you need someone who can dive into complex systems and make them shine, Enrique is your go-to tech lead.
+
+---
+
 ## 📫 How to Reach Me
 
 - 📧 Email: enrique.escobar.it@gmail.com  

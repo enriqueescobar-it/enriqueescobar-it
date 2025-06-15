@@ -10,6 +10,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+Programming Languages:
+Python MySQL R Shell Script
+
+Data Science & ML Libraries:
+NumPy Pandas Matplotlib SciPy scikit-learn TensorFlow Keras PyTorch
+
+Software Tools:
+Tableau Jupyter Notebook Git Anaconda VS Code RStudio
+
+Big Data Technologies:
+AWS Apache Hadoop Apache Spark Apache Hive
 -->
 
 🎯 **Senior Data Engineer** | BI • DS • ML | Azure • AWS • Databricks
